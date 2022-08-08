@@ -87,5 +87,3 @@ tree.insert(node5)
 console.log(tree)
 
 tree.see()
-
-//Próximo passo desenvolver restante das funções e estudar heap
